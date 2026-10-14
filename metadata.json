@@ -1,0 +1,6 @@
+{
+  "name": "Ads Autopilot",
+  "description": "Analizza landing page e genera annunci pubblicitari pronti per Google e Meta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
